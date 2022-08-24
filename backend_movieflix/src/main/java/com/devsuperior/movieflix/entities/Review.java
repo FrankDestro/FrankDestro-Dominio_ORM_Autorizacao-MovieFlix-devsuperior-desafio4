@@ -60,7 +60,7 @@ public class Review {
 	public void setMovie(Movie movie) {
 		this.movie = movie;
 	}
-	
+
 	public User getUser() {
 		return user;
 	}
